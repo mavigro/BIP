@@ -13,9 +13,11 @@ BIP: X
   Type: Standards Track
   Created: 2019-07-09
 BIP: Y
-  Layer: Application
+  Layer: **Application**
   Title: Change private key offset 
   Author: Melvin Carvalho <melvincarvalho@gmail.com>
   Status: Released
   Type: Standards Track
   Created: 2019-07-09
+BIP: Z:
+  How does this work
